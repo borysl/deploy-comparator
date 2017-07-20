@@ -1,0 +1,9 @@
+{
+    "iniFiles" : [
+        "project1/browse/p1.ini",
+        "project2/browse/p2.ini",
+        "project3/browse/p3.ini",
+        "project4/browse/p4.ini"
+    ]
+
+}
